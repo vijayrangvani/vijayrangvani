@@ -24,15 +24,11 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📊 **GitHub Stats:**
-[![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=dark)](https://github.com/vijayrangvani)
-
 🌐 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/vijayrangvani/)
-- Email: vijayrangvani@gmail.com
-- Phone: +91 9537667986
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayrangvani/)
+Email: vijayrangvani@gmail.com  
+Phone: +91 9537667986
 
-<!---
-vijayrangvani/vijayrangvani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 **GitHub Stats:**
+
+[![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=dark)](https://github.com/vijayrangvani)
