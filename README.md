@@ -14,6 +14,8 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
   A comprehensive analysis and dashboard of bike-sharing data using Excel.
 - Pizza Sales Analytics Dashboard  
   An interactive dashboard analyzing pizza sales performance and customer preferences in Excel and MSSQL.
+🔗 **All Repositories:**  
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-1C1C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayrangvani?tab=repositories)
 
 🛠️ **Skills:**
 
@@ -28,7 +30,6 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayrangvani/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayrangvani@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+919537667986) +91 9537667986
 
 📊 **GitHub Stats:**
 
