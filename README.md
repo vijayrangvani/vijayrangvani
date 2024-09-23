@@ -15,6 +15,10 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
 - Pizza Sales Analytics Dashboard  
   An interactive dashboard analyzing pizza sales performance and customer preferences in Excel and MSSQL.
 
+🔗 **All Repositories:**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=link&logoColor=white)](https://mavenanalytics.io/profile/Vijay-Rangvani/132085571)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-1C1C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayrangvani?tab=repositories)
+
 🛠️ **Skills:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,10 +31,6 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
 🌐 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayrangvani/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayrangvani@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=link&logoColor=white)](https://mavenanalytics.io/profile/Vijay-Rangvani/132085571)
-
-🔗 **All Repositories:**  
-[![All Repositories](https://img.shields.io/badge/All%20Repositories-1C1C1C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayrangvani?tab=repositories)
 
 📊 **GitHub Stats:**
 
