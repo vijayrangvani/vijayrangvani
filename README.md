@@ -16,9 +16,13 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
   An interactive dashboard analyzing pizza sales performance and customer preferences in Excel and MSSQL.
 
 🛠️ **Skills:**
-- **Programming & Tools:** Python, SQL, Excel, PowerBI, Jupyter, Git
-- **Data Visualization:** PowerBI, Excel, Tableau
-- **Databases:** MSSQL,MySQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 📊 **GitHub Stats:**
 [![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=dark)](https://github.com/vijayrangvani)
