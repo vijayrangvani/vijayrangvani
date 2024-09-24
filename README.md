@@ -12,7 +12,7 @@ Specializing in **Data Analytics**, with a keen interest in transforming raw dat
 🚀 **Top Projects:**
 - [Bike Share Analytics Dashboard](https://github.com/vijayrangvani/Bike-Share-Excel-Project)  
   A comprehensive analysis and dashboard of bike-sharing data using Excel.
-- Pizza Sales Analytics Dashboard  
+- [Pizza Sales Analytics Dashboard](https://github.com/vijayrangvani/Pizza-Sales-Analytics-Dashboard)  
   An interactive dashboard analyzing pizza sales performance and customer preferences in Excel and MSSQL.
 
 🔗 **All Repositories:**  
