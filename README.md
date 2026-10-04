@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayrangvani/)
-[![YouTube](https://img.shields.io/badge/YouTube-Build%20Log-DC2626?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vijay_rangvani)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayrangvani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vijayrangvani-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayrangvani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayrangvani/)
+[![YouTube](https://img.shields.io/badge/YouTube-Build%20Log-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vijay_rangvani)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayrangvani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vijayrangvani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayrangvani)
 
 </div>
 
@@ -31,27 +31,56 @@ Right now: finishing the Graph RAG assistant, deepening agent evaluation, and ge
 
 ## 🧰 Stack
 
-<div align="center">
+🤖 **GenAI**
 
-**🤖 GenAI**
-`LLMs` `RAG` `Graph RAG` `LangChain` `LangGraph` `Agents` `Embeddings` `Vector Search` `Tool Calling` `ReAct` `LangSmith`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![Graph_RAG](https://img.shields.io/badge/Graph_RAG-0F766E?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-0F766E?style=flat-square)
+![Vector_Search](https://img.shields.io/badge/Vector_Search-0F766E?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Tool_Calling](https://img.shields.io/badge/Tool_Calling-0F766E?style=flat-square)
+![ReAct](https://img.shields.io/badge/ReAct-0F766E?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
 
-**⚡ Backend**
-`Python` `FastAPI` `REST APIs` `Pydantic` `SQL` `Bash`
+⚡ **Backend**
 
-**🗄️ Databases**
-`PostgreSQL` `MongoDB` `Neo4j`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**🐳 DevOps**
-`Docker` `Docker Compose` `Kubernetes` `Git`
+🗄️ **Databases**
 
-**📊 Data Foundations**
-`Pandas` `Power BI` `Excel` `Jupyter`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-**🌱 Actively Exploring**
-`Terraform` `CI/CD` `Cloud Deployment` `Observability` `Testing`
+🐳 **DevOps**
 
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker_Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+📊 **Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+🌱 **Exploring**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0F766E?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-0F766E?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-0F766E?style=flat-square)
 
 ---
 
