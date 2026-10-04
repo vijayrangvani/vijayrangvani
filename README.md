@@ -170,8 +170,7 @@ The discipline of explaining what you built forces clarity you don't get from bu
 <div align="center">
 
 ```text
-The gap between a working prototype and a working integration
-is where most ideas die — and where I want to work.
+The gap between a working prototype and a working integration is where most ideas die — and where I want to work.
 ```
 
 </div>
