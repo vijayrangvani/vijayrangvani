@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A2332,100:0F4C4C&height=170&section=header&text=Vijay%20Rangvani&fontSize=46&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Building%20toward%20FDE%20%2B%20GenAI%20Engineering&descAlignY=62&descSize=17&descColor=94A3B8" width="100%" alt="Vijay Rangvani"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C4C,50:134E4A,100:0F766E&height=170&section=header&text=Vijay%20Rangvani&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20toward%20FDE%20%2B%20GenAI%20Engineering&descAlignY=62&descSize=17&descColor=CCFBF1" width="100%" alt="Vijay Rangvani"/>
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A5F?style=flat-square&logo=linkedin&logoColor=E2E8F0)](https://www.linkedin.com/in/vijayrangvani/)
-[![YouTube](https://img.shields.io/badge/YouTube-Build%20Log-1A2332?style=flat-square&logo=youtube&logoColor=E2E8F0)](https://www.youtube.com/@vijay_rangvani)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-1E3A5F?style=flat-square&logo=gmail&logoColor=E2E8F0)](mailto:vijayrangvani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vijayrangvani-0D1117?style=flat-square&logo=github&logoColor=E2E8F0)](https://github.com/vijayrangvani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayrangvani/)
+[![YouTube](https://img.shields.io/badge/YouTube-Build%20Log-DC2626?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vijay_rangvani)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayrangvani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vijayrangvani-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayrangvani)
 
 </div>
 
@@ -69,7 +69,7 @@ PDF → Chunking → Embeddings → Graph Relationships → Retrieval → LLM �
 
 `FastAPI` · `Neo4j` · `Embeddings` · `Vector Search` · `RAG` · `LLM`
 
-[![Explore Repository](https://img.shields.io/badge/⭐%20Explore%20Repository-0F4C4C?style=for-the-badge&logo=github&logoColor=E2E8F0)](https://github.com/vijayrangvani/graph-rag-knowledge-assistant)
+[![Explore Repository](https://img.shields.io/badge/⭐%20Explore%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayrangvani/graph-rag-knowledge-assistant)
 
 ---
 
@@ -91,7 +91,7 @@ Built and compared four agent architectures to understand where each pattern bre
 
 `LangChain` · `LangGraph` · `Pydantic` · `Tool Calling` · `LangSmith`
 
-[![Agent Projects](https://img.shields.io/badge/Explore%20Agent%20Repos-1A2332?style=flat-square&logo=github&logoColor=E2E8F0)](https://github.com/vijayrangvani?tab=repositories&q=agent)
+[![Agent Projects](https://img.shields.io/badge/Explore%20Agent%20Repos-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayrangvani?tab=repositories&q=agent)
 
 </details>
 
@@ -106,7 +106,7 @@ Containerized a multi-service application — FastAPI backend, PostgreSQL, Redis
 
 `FastAPI` · `PostgreSQL` · `Redis` · `Nginx` · `pgAdmin` · `Docker Compose`
 
-[![Docker Projects](https://img.shields.io/badge/Explore%20Docker%20Repos-1A2332?style=flat-square&logo=github&logoColor=E2E8F0)](https://github.com/vijayrangvani?tab=repositories&q=docker)
+[![Docker Projects](https://img.shields.io/badge/Explore%20Docker%20Repos-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayrangvani?tab=repositories&q=docker)
 
 </details>
 
@@ -121,7 +121,7 @@ Deployed a containerized FastAPI app to Kubernetes using Deployments and Service
 
 `Kubernetes` · `Docker` · `YAML` · `kubectl` · `NodePort`
 
-[![Kubernetes Projects](https://img.shields.io/badge/Explore%20Kubernetes%20Repos-1A2332?style=flat-square&logo=github&logoColor=E2E8F0)](https://github.com/vijayrangvani?tab=repositories&q=kubernetes)
+[![Kubernetes Projects](https://img.shields.io/badge/Explore%20Kubernetes%20Repos-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayrangvani?tab=repositories&q=kubernetes)
 
 </details>
 
@@ -133,7 +133,7 @@ I document the work on YouTube — not polished demos, but real technical walkth
 
 The discipline of explaining what you built forces clarity you don't get from building alone. That's why I do it.
 
-[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20the%20Build%20Log-1A2332?style=for-the-badge&logo=youtube&logoColor=E2E8F0)](https://www.youtube.com/@vijay_rangvani)
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20the%20Build%20Log-DC2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vijay_rangvani)
 
 ---
 
@@ -141,11 +141,11 @@ The discipline of explaining what you built forces clarity you don't get from bu
 
 <div align="center">
 
-[![Graph RAG](https://img.shields.io/badge/🕸️%20Graph%20RAG-0F4C4C?style=for-the-badge)](https://github.com/vijayrangvani/graph-rag-knowledge-assistant)
-[![Agents](https://img.shields.io/badge/🤖%20AI%20Agents-1A2332?style=for-the-badge)](https://github.com/vijayrangvani?tab=repositories&q=agent)
-[![Docker](https://img.shields.io/badge/🐳%20Docker-1E3A5F?style=for-the-badge)](https://github.com/vijayrangvani?tab=repositories&q=docker)
-[![Kubernetes](https://img.shields.io/badge/☸️%20Kubernetes-1A2332?style=for-the-badge)](https://github.com/vijayrangvani?tab=repositories&q=kubernetes)
-[![All Repos](https://img.shields.io/badge/📚%20All%20Repositories-0D1117?style=for-the-badge&logo=github)](https://github.com/vijayrangvani?tab=repositories)
+[![Graph RAG](https://img.shields.io/badge/🕸️%20Graph%20RAG-0F766E?style=for-the-badge)](https://github.com/vijayrangvani/graph-rag-knowledge-assistant)
+[![Agents](https://img.shields.io/badge/🤖%20AI%20Agents-0369A1?style=for-the-badge)](https://github.com/vijayrangvani?tab=repositories&q=agent)
+[![Docker](https://img.shields.io/badge/🐳%20Docker-0284C7?style=for-the-badge)](https://github.com/vijayrangvani?tab=repositories&q=docker)
+[![Kubernetes](https://img.shields.io/badge/☸️%20Kubernetes-3B5998?style=for-the-badge)](https://github.com/vijayrangvani?tab=repositories&q=kubernetes)
+[![All Repos](https://img.shields.io/badge/📚%20All%20Repositories-333333?style=for-the-badge&logo=github)](https://github.com/vijayrangvani?tab=repositories)
 
 </div>
 
@@ -169,8 +169,9 @@ The discipline of explaining what you built forces clarity you don't get from bu
 
 <div align="center">
 
-```text
-The gap between a working prototype and a working integration is where most ideas die — and where I want to work.
+```
+The gap between a working prototype and a working integration
+is where most ideas die — and where I want to work.
 ```
 
 </div>
@@ -182,8 +183,8 @@ The gap between a working prototype and a working integration is where most idea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=github_dark&hide_border=true&count_private=false&rank_icon=github&bg_color=0D1117&title_color=0F766E&icon_color=0F766E&text_color=E2E8F0" alt="GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=vijayrangvani&theme=github-dark&hide_border=true&background=0D1117&ring=0F766E&fire=0F766E&currStreakLabel=E2E8F0&dates=94A3B8" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=transparent&hide_border=true&count_private=false&rank_icon=github&title_color=0F766E&icon_color=0F766E" alt="GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vijayrangvani&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E&dates=888888" alt="GitHub Streak" width="49%"/>
 
 </div>
 
@@ -212,4 +213,4 @@ Before moving toward backend and GenAI engineering, I worked on data analysis an
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C4C,50:1A2332,100:0D1117&height=90&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:134E4A,100:0F4C4C&height=90&section=footer" width="100%" alt="Footer"/>
