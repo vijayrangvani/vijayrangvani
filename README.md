@@ -151,12 +151,40 @@ The discipline of explaining what you built forces clarity you don't get from bu
 
 ---
 
-## 📈 GitHub Activity
+## ⚡ The Way I Work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="Vijay's GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayrangvani&layout=compact&theme=github_dark&hide_border=true&langs_count=6&count_private=false" alt="Vijay's Top Languages" width="49%"/>
+| | | |
+|:---:|:---:|:---:|
+| 🔍 | **Understand** | What is the *actual* problem — not the stated one |
+| 🧪 | **Prototype** | Build the smallest thing that answers it |
+| 🔗 | **Integrate** | Where assumptions meet reality |
+| 🔧 | **Debug** | Where real learning happens |
+| 🚀 | **Deploy** | Make it real — local doesn't count |
+| 🗣️ | **Explain** | If you can't explain it, you don't own it |
+| 🔁 | **Iterate** | What would you build differently now? |
+
+</div>
+
+<div align="center">
+
+```text
+The gap between a working prototype and a working integration
+is where most ideas die — and where I want to work.
+```
+
+</div>
+
+> Engineering isn't about knowing the answer.  
+> It's about building your way to one — and being honest about what broke along the way.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vijayrangvani&show_icons=true&theme=github_dark&hide_border=true&count_private=false&rank_icon=github&bg_color=0D1117&title_color=0F766E&icon_color=0F766E&text_color=E2E8F0" alt="GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vijayrangvani&theme=github-dark&hide_border=true&background=0D1117&ring=0F766E&fire=0F766E&currStreakLabel=E2E8F0&dates=94A3B8" alt="GitHub Streak" width="49%"/>
 
 </div>
 
